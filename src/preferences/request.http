@@ -1,0 +1,9 @@
+POST https://post-api-fxiwuyrihq-nw.a.run.app/v1/user/preferences
+content-type: application/json
+
+{
+   "termsAndConditions": true,
+   "languagePreference": "English",
+   "showProfilePreference": true,
+   "showLanguagePreference": true
+}
